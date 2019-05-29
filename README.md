@@ -4,7 +4,7 @@ Mojolicious process fork with fully bidirectional communication; three streams
 (stdin, stdout and stderr). Inherits from Mojolicious::Plugin and
 Mojo::EventEmitter.
 
-## Synopsis
+## Contents
 
 1. [Synopsis](#synopsis).
 2. [Methods](#methods).
