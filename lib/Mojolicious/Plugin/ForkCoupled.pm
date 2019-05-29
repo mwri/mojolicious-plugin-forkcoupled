@@ -338,7 +338,7 @@ sub merge_stderr { $_[0]->{'_merge_stderr'}                              }
 
 =head1 AUTHOR
 
-Copyright (C) 2015-2016 Michael Wright <mjw@methodanalysis.com>. All rights reserved.
+Copyright (C) 2015-2016 Michael Wright <mjw@methodanalysis.com>.
 
 =cut
 
